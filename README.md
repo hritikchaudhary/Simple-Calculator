@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![Screenshot](./screenshots/Screenshot1.jpg)
-![Screenshot](./screenshots/Screenshot2.jpg)
-![Screenshot](./screenshots/Screenshot3.jpg)
-
+<p align="center">
+  <img src="./screenshots/Screenshot1.jpg" width="350" title="Screenshot">
+  <img src="./screenshots/Screenshot2.jpg" width="350" title="Screenshot">
+  <img src="./screenshots/Screenshot3.jpg" width="350" title="Screenshot">
+</p>
